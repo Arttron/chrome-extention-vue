@@ -1,6 +1,6 @@
-# Google change logo. Chrom extention
+# Chrom extention
 
-Replace logo on google.com
+vue extention BL
 
 ## It contains the following features:
 - Babel for transpiling
