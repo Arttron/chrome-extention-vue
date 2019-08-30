@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Custom Logo",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Замените и кастомизируйте логотип на поисковых страницах Google",
+    "description":"The description of the application, displayed in the web store."
+  }
+}

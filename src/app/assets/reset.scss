@@ -1,0 +1,11 @@
+@import "./fonts";
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  font-family: 'Mosk', 'sans-serif';
+}
+div, label {
+  box-sizing: border-box;
+}
